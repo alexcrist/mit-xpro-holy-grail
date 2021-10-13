@@ -1,0 +1,36 @@
+.app {
+  background: grey;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  flex: 1;
+  background: pink;
+}
+
+.body {
+  flex: 2;
+  display: flex;
+}
+
+.footer {
+  flex: 1;
+  background: pink;
+}
+
+.menu {
+  flex: 1;
+  background: white;
+}
+
+.content {
+  flex: 2;
+  background: green;
+}
+
+.ad {
+  flex: 1;
+  background: white;
+}
